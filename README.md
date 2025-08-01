@@ -3,17 +3,17 @@
 
 
 
-- 🔭 I’m currently working on **Hotel transaction dashboard with React.js,Redux, tailwind css, Supabase**
+- 🔭 I’m currently working on **PROBLEM SOLVING SKILL AND SCALABLE APP**
 
-- 🌱 I’m currently learning **React.js and Redux**
+- 🌱 I’m currently learning **System Design and Ai Integration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunkoo](https://github.com/Arunkoo)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack, LLM'S, DSA, C++, JAVASCRIPT, TYPESCRIPT**
 
 - 📫 How to reach me **arunkoo072@gmail.com**
 
-- ⚡ Fun fact **Once my program runs, I don't touch it**
+- ⚡ Fun fact **I DON'T CHASE ONLY ATTRACT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
