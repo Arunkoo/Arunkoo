@@ -37,8 +37,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph.svg">
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkoo&show_icons=true&locale=en&layout=compact" alt="arunkoo" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkoo&show_icons=true&locale=en&layout=compact" alt="arunkoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkoo&show_icons=true&locale=en" alt="arunkoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkoo&show_icons=true&locale=en" alt="arunkoo" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkoo&" alt="arunkoo" /></p>
