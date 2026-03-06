@@ -32,12 +32,6 @@
 </picture> -->
 ##  • • • ⍩⃝ Pac-Man Hunting My Commits
 
-<p align="center">
-Pac-Man is chasing my commits across GitHub.<br>
-Dots = code shipped.<br>
-Ghosts = bugs trying to survive production.
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph.svg">
