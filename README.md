@@ -30,11 +30,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/github-snake.svg" />
 </picture> -->
-## My Contribution Graph
+##  • • • ⍩⃝ Pac-Man Hunting My Commits
+
+<p align="center">
+Pac-Man is chasing my commits across GitHub.<br>
+Dots = code shipped.<br>
+Ghosts = bugs trying to survive production.
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph.svg">
 </picture>
 
