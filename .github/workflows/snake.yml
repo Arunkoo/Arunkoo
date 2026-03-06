@@ -11,18 +11,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake game from contribution graph
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Arunkoo
-          animation_duration: 20
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg?palette=github-dark&color_snake=#00ffcc
+            dist/snake.svg?snake_speed=1
+            dist/snake-dark.svg?palette=github-dark&snake_speed=1&color_snake=#00ffcc
+            dist/snake-rainbow.svg?palette=github-dark&snake_speed=1&color_snake=#ff00ff
 
-      - name: Push snake animation to output branch
+      - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
