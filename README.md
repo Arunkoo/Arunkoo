@@ -5,6 +5,7 @@ Backend Engineer • Full-Stack Developer • AI Integration
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" height="250" alt="animated cyber banner" />
 </p>
+
 - 🔭 I’m currently working on **PROBLEM SOLVING SKILL AND SCALABLE APP**
 
 - 🌱 I’m currently learning **System Design and Ai Integration**
