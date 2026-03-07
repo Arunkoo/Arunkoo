@@ -2,8 +2,9 @@
 <p align="center">
 Backend Engineer • Full-Stack Developer • AI Integration
 </p>
+<!-- https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif -->
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" height="250" alt="animated cyber banner" />
+  <img src="./assets/From Main Klickpin CF- 68mediatumblrcom - 2KPk6lX1R.gif" width="100%" height="250" alt="animated cyber banner" />
 </p>
 
 - 🔭 I’m currently working on **PROBLEM SOLVING SKILL AND SCALABLE APP**
@@ -44,7 +45,8 @@ Backend Engineer • Full-Stack Developer • AI Integration
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/github-snake.svg" />
 </picture> -->
-##  • • • ⍩⃝ Pac-Man Hunting My Commits
+
+## • • • ⍩⃝ Pac-Man Hunting My Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkoo/Arunkoo/output/pacman-contribution-graph-dark.svg">
