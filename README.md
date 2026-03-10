@@ -4,7 +4,7 @@ Backend Engineer • Full-Stack Developer • AI Integration
 </p>
 <!-- https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif -->
 <p align="center">
-  <img src="./assets/From Main Klickpin CF- 68mediatumblrcom - 2KPk6lX1R.gif" width="100%" height="250" alt="animated cyber banner" />
+  <img src="./assets/download (4).jfif" width="100%" height="250" alt="animated cyber banner" />
 </p>
 
 - 🔭 I’m currently working on **PROBLEM SOLVING SKILL AND SCALABLE APP**
