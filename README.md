@@ -29,7 +29,7 @@ Backend Engineer • Full-Stack Developer • AI Integration
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,express,react,redux,mongodb,postgres,mysql,redis,docker,aws,linux,git,tailwind,bootstrap,figma,postman,kafka&perline=11" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,express,react,redux,mongodb,postgres,mysql,github,githubAction,redis,docker,aws,linux,git,tailwind,bootstrap,figma,postman,kafka&perline=11" />
 </p>
 
 <p align="center">
