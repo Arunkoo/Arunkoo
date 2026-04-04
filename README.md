@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
+<h1 align="center">Hi , I'm Arun Kumar</h1>
 <p align="center">
 Backend Engineer • Distributed Systems • AI Integration
 </p>
@@ -9,19 +9,19 @@ Backend Engineer • Distributed Systems • AI Integration
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build scalable backend systems and distributed applications.
 
-- ⚙️ Designed **microservices architecture** with secure APIs and async workflows  
-- 🔄 Work with **event-driven systems (Kafka)** and real-time processing  
-- ☁️ Deploy production systems using **Docker, AWS EC2, CI/CD pipelines**  
-- 🤖 Build **LLM-powered features (RAG, LangChain, Gemini API)**  
-- 🧠 Strong foundation in problem solving (**190+ DSA problems**)  
+-  Designed **microservices architecture** with secure APIs and async workflows  
+-  Work with **event-driven systems (Kafka)** and real-time processing  
+-  Deploy production systems using **Docker, AWS EC2, CI/CD pipelines**  
+-  Build **LLM-powered features (RAG, LangChain, Gemini API)**  
+-  Strong foundation in problem solving and core cs fundamentals 
 
 ---
 
-## 🧠 What I Focus On
+##  What I Focus On
 
 - Backend system design  
 - API architecture & data modeling  
@@ -31,7 +31,7 @@ I build scalable backend systems and distributed applications.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,cpp,nodejs,express,react,nextjs,postgres,mongodb,redis,docker,aws,kafka,githubactions,linux,git,tailwind&perline=9" />
@@ -45,11 +45,11 @@ I build scalable backend systems and distributed applications.
 - Developed an **LLM-powered search system** using LangChain with real-time web data  
 - Contributed to a **production open-source codebase** with multiple merged pull requests  
 
-👉 Explore pinned repositories for implementation details
+🔗 Explore pinned repositories for implementation details
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Arunkoo&theme=tokyonight&hide_border=true"/>
@@ -58,14 +58,14 @@ I build scalable backend systems and distributed applications.
 ---
 
 ## 🔗 Connect
-
 <p align="left">
 <a href="https://linkedin.com/in/arun-kumar-948a392a9/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
 <a href="https://leetcode.com/u/Arunxvoid/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />  
+</a>  
 </p>
 
 ---
