@@ -4,7 +4,7 @@ Backend Engineer • Distributed Systems • AI Integration
 </p>
 
 <p align="center">
-  <img src="./assets/From Main Klickpin CF- 68mediatumblrcom - 2KPk6lX1R.gif" width="100%" height="250" alt="banner" />
+  [![An image of @arunkoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arunkoo)](https://holopin.io/@arunkoo)
 </p>
 
 ---
