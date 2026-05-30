@@ -4,7 +4,9 @@ Backend Engineer • Distributed Systems • AI Integration
 </p>
 
 <p align="center">
-  [![An image of @arunkoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arunkoo)](https://holopin.io/@arunkoo)
+  <a href="https://holopin.io/@arunkoo">
+    <img src="https://holopin.me/arunkoo" alt="Holopin badges" />
+  </a>
 </p>
 
 ---
